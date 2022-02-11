@@ -1,0 +1,76 @@
+body {
+  background: url(../../assets/img/tło2.jpg);
+  background-size: cover;
+}
+
+#last {
+  height: 512px;
+  width: 623px;
+  margin-left: 435px;
+  margin-top: 50px;
+}
+
+#Start {
+  margin-left: 500px;
+}
+
+#tabela {
+  margin-top: 40px;
+}
+
+#bar {
+}
+
+a {
+}
+
+#niania {
+  font-size: x-large;
+  margin-left: -70px;
+}
+
+#zd1 {
+  height: 142px;
+  width: 190px;
+  margin-right: 10px;
+  margin-left: 60px;
+}
+
+#zd2 {
+  height: 142px;
+  width: 190px;
+  margin-right: 10px;
+}
+
+#zd3 {
+  height: 142px;
+  width: 190px;
+  margin-right: 10px;
+}
+
+#zd4 {
+  height: 142px;
+  width: 190px;
+  margin-right: 10px;
+}
+
+#zd5 {
+  height: 142px;
+  width: 190px;
+  margin-right: 10px;
+}
+
+.action-button {
+  margin-right: 7px;
+}
+
+#login {
+  margin-right: -60px;
+}
+
+.dialog {
+  border: none;
+  border-radius: 2px;
+  box-shadow: 0 3px 6px #eb69ce, 0 3px 6px #eb69ce;
+  max-width: 60vw;
+}
